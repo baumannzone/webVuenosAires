@@ -38,7 +38,7 @@
 </template>
 
 <script>
-import logo from "~/components/logo.vue";
+import logo from "~/components/Logo.vue";
 
 export default {
   components: {
