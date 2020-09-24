@@ -10,6 +10,7 @@
           <a href="https://vuejs.org" target="_blank">
             Vue.js
           </a>
+          .
         </p>
         <p>
           Publicamos eventos en
@@ -31,6 +32,7 @@
           <a href="https://github.com/vuenos-aires" target="_blank">
             Github
           </a>
+          .
         </p>
       </div>
     </main>
